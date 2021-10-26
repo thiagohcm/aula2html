@@ -1,0 +1,59 @@
+
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      .paragrafosIniciais,
+      .paragrafoSecundario {
+        background-color: aquamarine;
+        color: blueviolet;
+      }
+
+      h1,
+      h2 {
+        background-color: chocolate;
+      }
+
+      #tituloPrincipal {
+        background-color: coral;
+      }
+
+      #codigoFonte {
+        font-size: 32px;
+      }
+
+      #divExemplo {
+        background-color: cornflowerblue;
+      }
+
+      #divUm {
+        background-color: crimson;
+        width: 1000px;
+        height: 300px;
+        margin: auto;
+      }
+
+      #divDois {
+        background-color: darkcyan;
+        height: 200px;
+        width: 800px;
+        margin: auto;
+      }
+
+      #divUm p {
+        font-size: 30px;
+      }
+
+      #divDois p {
+        font-size: 40px;
+        padding: 35px;
+        margin: 40px;
+      }
+
+      .ultimoParagrafo .paragrafoFinal {
+        font-style: italic;
+      }
+
+      .divContainer + p {
+        background-color: gold;
+      }
